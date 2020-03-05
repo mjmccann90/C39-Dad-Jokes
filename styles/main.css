@@ -1,0 +1,29 @@
+.main-container {
+  border: 3px solid black;
+  padding: 15px;
+  margin: 50px 25px 11px 20px;
+  background-color: #fff;
+}
+
+#card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.DadJokeCardContainer {
+  margin-top: 15px;
+  margin-right: 50px;
+  margin-left: 50px;
+  text-align: center;
+  width: 21%;
+  height: 20%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+  /* background-color: #cdba92; */
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
